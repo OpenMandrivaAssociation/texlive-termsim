@@ -1,6 +1,6 @@
 Name:		texlive-termsim
 Version:	61414
-Release:	1
+Release:	2
 Summary:	Simulate Win10, Ubuntu, and Mac terminals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termsim
