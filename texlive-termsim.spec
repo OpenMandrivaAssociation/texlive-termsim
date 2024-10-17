@@ -3,7 +3,7 @@ Version:	61414
 Release:	2
 Summary:	Simulate Win10, Ubuntu, and Mac terminals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termsim
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/termsim
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termsim.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termsim.doc.r%{version}.tar.xz
